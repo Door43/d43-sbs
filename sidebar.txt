@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sbs:home|Door43 (sbs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sbs|d43-sbs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sbs/archive/master.zip|d43-sbs.zip]]
+
+**Recent Changes**
+{{changes>ns = sbs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sbs|Ethnologue data]]
+
